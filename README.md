@@ -1,4 +1,4 @@
-![page](./screenshots/Screenshot (359).png)
+![page](./screenshots/f.png)
 # Movie Info Site
 
 A movie information site using the OMDB API to display trending movies, with real-time search, detailed movie pages (descriptions, ratings, cast, trailers), and filtering by type (movie, episode, series). Features a clean grid layout and easy navigation for discovering and exploring films.
@@ -63,13 +63,13 @@ A movie information site using the OMDB API to display trending movies, with rea
 - CSS for styling
 
 ## Screenshots
-![page](./screenshots/Screenshot (354).png)
-![page](./screenshots/Screenshot (355).png)
-![page](./screenshots/Screenshot (356).png)
-![page](./screenshots/Screenshot (357).png)
-![page](./screenshots/Screenshot (358).png)
-![page](./screenshots/Screenshot (359).png)
-![page](./screenshots/Screenshot (360).png)
+![page](./screenshots/a.png)
+![page](./screenshots/b.png)
+![page](./screenshots/c.png)
+![page](./screenshots/d.png)
+![page](./screenshots/e.png)
+![page](./screenshots/f.png)
+![page](./screenshots/g.png)
 
 
 
