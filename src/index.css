@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+
+  .scrollbar-hidden {
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+  }
+}
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+[data-theme=dark]{
+@apply dark:bg-slate-800 dark:text-white;
+
+}
+body,html,#root{
+  min-height: 100vh;
+}
